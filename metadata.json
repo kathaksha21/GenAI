@@ -1,0 +1,6 @@
+{
+  "name": "Biolume: Xenobiology Observatory & Resonant Terrarium",
+  "description": "An interactive speculative biology simulation and acoustic terrarium where you cultivate, morph, and observe bioluminescent xenobiological organisms with real-time flocking fluid physics and harmonic soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
